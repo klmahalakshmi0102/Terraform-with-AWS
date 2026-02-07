@@ -1,0 +1,19 @@
+# Local Terraform directories (auto-generated)
+.terraform/
+.terraform*
+
+# Terraform state files (contain sensitive data)
+*.tfstate
+*.tfstate.*
+
+# Terraform variable files (often contain secrets)
+terraform.tfvars
+*.tfvars
+*.tfvars.json
+
+# Terraform dependency lock file
+.terraform.lock.hcl
+
+# Terraform logs
+crash.log
+*.log
